@@ -1,0 +1,111 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+html {
+  height: 100%;
+}
+body {
+  height: 100%;
+}
+.conteiner {
+    width: 1280px;
+    
+        max-height: 100%;
+    margin: 0 auto;
+}
+
+header {
+    width: 1280px;
+    height: 323px;
+    background-color: #445161;
+    color: #ffffff;
+    font-family: "Arial MT";
+    box-sizing: border-box;
+}
+
+h1 {
+    font-size: 60px;
+    font-weight: 400;
+    margin-left: -20px;
+    width: 367px;
+    height: 44px;
+    margin-top: 40px;
+    margin-left: 50px;
+}
+
+nav {
+    display: inline-block;
+}
+
+.menu {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 36px;
+    text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.3);
+    list-style-type: none;
+    list-style-image: url(img/check_icon.png);
+    width: 422px;
+    height: 127px;
+    margin-left: 86px;
+    margin-top: 51px;
+}
+
+.white {
+    background: #ffffff;
+    width: 469px;
+    height: 214px;
+    float: right;
+    margin-right: 50px;
+    margin-top: 50px;
+}
+
+h2 {
+    margin-top: 49px;
+    margin-left: 50px;
+    width: 254px;
+    height: 28px;
+    color: #445161;
+    font-family: "Arial MT";
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 36px;
+}
+
+.text {
+    margin-left: 50px;
+    color: #333333;
+    font-family: "Arial MT";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.one {
+        margin-top: 30px;
+    width: 649px;
+    height: 63px;
+}
+
+.two {
+    width: 653px;
+    height: 60px;
+}
+.black {
+    float: right;
+    background: #445161;
+        width: 430px;
+height: 245px;
+margin-right: 50px;
+    margin-bottom: 50px;
+}
+.dignity {
+    height: 318px;
+    background: #ffffff;
+    clear: both;
+}
+
+footer {
+    width: 1280px;
+    height: 509px;
+}
